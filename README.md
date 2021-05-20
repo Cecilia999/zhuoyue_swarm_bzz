@@ -104,5 +104,6 @@ nohup bee start --config /etc/bee/bee.yaml &
 ### 参考教程：
 
 * 官方文档：https://docs.ethswarm.org/docs/installation/quick-start#macos-1  
+* debug api: https://docs.ethswarm.org/debug-api
 * https://www.yuque.com/daxiansheng-ohldj/ilm2lv/nccrxg
 * https://niutan.com/25823.html
